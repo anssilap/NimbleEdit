@@ -14,11 +14,10 @@ I usually bind this to my "Start Debugging"-key (default F5). This simplifies th
 - Continue execution (F5)
 
 Using NimbleEdit the workflow becomes:
-- Notice a problem in the program
 - Pause execution (F5)
 - Edit the code
 - Continue execution (F5)
 
-Essentially, this plugin does what Andrew Russell showed in his video back in 2012 using a mouse macro program.
+Less keys, less steps, faster editing. It might not seem like a big difference, but if you do this a lot, like you do while developing games, it makes a big difference. Essentially, this plugin does what Andrew Russell showed in his video back in 2012 using a mouse macro program.
 
 You can see his original method here: https://www.youtube.com/watch?v=mfJEug3Y8ss
